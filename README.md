@@ -1,6 +1,6 @@
 # Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Darshan+;Lifelong+Learner+%26;%22AI+Enthusisat%22;Let's+Connect+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Darshan+;Lifelong+Learner+%26;%22AI+Enthusiast%22;Let's+Connect+!)](https://git.io/typing-svg)
 
 
 I’m currently pursuing a **B.Tech in Computer Science Engineering with a focus on Data Science**. My passion lies in **Artificial Intelligence (AI)** and **Data Science**. I’m fascinated by how AI works and the logic behind it, and I’m eager to dive deeper into this field.
