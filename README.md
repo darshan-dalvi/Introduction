@@ -23,7 +23,6 @@ Feel free to browse my repositories to see what I’m working on and connect wit
 - **Email**: darshandalvi1270@gmail.com
 
 Looking forward to collaborating and learning together! 
- ;)
 
 
 
