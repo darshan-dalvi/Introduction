@@ -16,7 +16,7 @@ I’m currently pursuing a **B.Tech in Computer Science Engineering with a focus
 - **AI**: Understanding how artificial intelligence systems are designed and function.
 - **Data Science**: Exploring data analysis, statistical models, and data-driven decision making.
 
-Feel free to browse my repositories to see what I’m working on and connect with me if you have any questions or interesting projects related to AI and data science!
+Feel free to browse my repositories to see what I’m working on and connect with me, if you have any questions or interesting projects related to AI and data science!
 
 ## Contact
 
